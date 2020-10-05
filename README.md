@@ -6,7 +6,7 @@ Get the messages from source broker, source topic and stream it to destination b
 
 ### Usage :
 
-If you want to use as code 
+If you want to use as code  
 `go run main.go -sh source-host-broker:9092 -st source-topic -dh dest-host-broker:9092 -dt destn-topic`
 
 To build the app and run anywhere, 
