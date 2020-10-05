@@ -1,5 +1,5 @@
 # go-kafka-stream
-Streaming kafka messages from one topic to other
+Streaming kafka messages from one broker to another
 
 ### Manifesto
 Get the messages from source broker, source topic and stream it to destination broker and destination topic without any lag. 
